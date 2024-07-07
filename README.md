@@ -14,7 +14,7 @@
 + Ömer Faruk Baysal- Developer
 
 
-+ Umut Yiğit - Developer
++ Sıla Doğdu - Developer
 
 
 ***Oyun İsmi***  
