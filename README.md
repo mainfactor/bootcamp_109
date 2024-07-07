@@ -74,9 +74,26 @@ Adada mahsur kalan karakterimiz engellerden atlayarak iskeleye ulaşmaya çalı�
 
 + Objeler seçildi.
 
+![**MAP**](![map](https://github.com/mainfactor/bootcamp_109/assets/122168639/475fa1f0-8409-408a-9c8f-097bb1c38446)
 
-![Açıklama](![objeler](https://github.com/mainfactor/bootcamp_109/assets/122168639/ea8dfe81-3c20-4368-9162-8c8e38af1ddb)
-")
+
+![**MAP2**](![map2](https://github.com/mainfactor/bootcamp_109/assets/122168639/bd7d380d-9ba0-413c-beb0-ac94b6faa64c)
+
+
+
+
+![**OBJELER**](![objeler](https://github.com/mainfactor/bootcamp_109/assets/122168639/ea8dfe81-3c20-4368-9162-8c8e38af1ddb)
+
+
+**Sprint Retrospektifi**
+
++ Ekipte uygunluk durumu biraraya gelmek için mümkün olmuyor.
+
++ Ekip katılımcıları toplantı çağrılarına yanıt vermiyor.
+
++ Sprint için atanan bir kişi görevler için araştırmalar yaptı.
+
++ Daha sağlıklı ürün ortaya koymak için ekip bir araya gelmeli.
 
 
 
